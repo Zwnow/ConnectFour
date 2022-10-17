@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\S.O.Timm\\Desktop\\Test\\Connect4\\Connect4\\Connect4.csproj": {}
+    "C:\\Users\\sveno\\OneDrive\\Desktop\\Connect4\\Connect4\\Connect4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\S.O.Timm\\Desktop\\Test\\Connect4\\Connect4\\Connect4.csproj": {
+    "C:\\Users\\sveno\\OneDrive\\Desktop\\Connect4\\Connect4\\Connect4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\S.O.Timm\\Desktop\\Test\\Connect4\\Connect4\\Connect4.csproj",
+        "projectUniqueName": "C:\\Users\\sveno\\OneDrive\\Desktop\\Connect4\\Connect4\\Connect4.csproj",
         "projectName": "Connect4",
-        "projectPath": "C:\\Users\\S.O.Timm\\Desktop\\Test\\Connect4\\Connect4\\Connect4.csproj",
-        "packagesPath": "C:\\Users\\S.O.Timm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\S.O.Timm\\Desktop\\Test\\Connect4\\Connect4\\obj\\",
+        "projectPath": "C:\\Users\\sveno\\OneDrive\\Desktop\\Connect4\\Connect4\\Connect4.csproj",
+        "packagesPath": "C:\\Users\\sveno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sveno\\OneDrive\\Desktop\\Connect4\\Connect4\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\S.O.Timm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sveno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

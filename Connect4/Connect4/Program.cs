@@ -16,17 +16,17 @@ board.FillField();
 Player a = new Player("A");
 Player b = new Player("B");
 
-while(foundWinner == false)
+while(!foundWinner)
 { 
     a.TakeTurn(board);
-    if(a.Won == true)
+    if(a.Won)
     {
         foundWinner = true;
         winner = a.Name;
         break;
     }
     b.TakeTurn(board);
-    if (b.Won == true)
+    if (b.Won)
     {
         foundWinner = true;
         winner = b.Name;

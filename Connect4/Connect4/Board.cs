@@ -9,7 +9,10 @@ namespace Connect4
 {
     public class Board
     {
-        private string[,] field = new string[6,7]; //6 Rows 7 Columns
+        const int numRows = 6;
+        const int numColumns = 7;
+
+        private string[,] field = new string[numRows, numColumns];
 
         public string[,] Field { get => field; set => field = value; }
 
@@ -20,15 +23,15 @@ namespace Connect4
         //Resets the board preparing it for a new game
         public void ResetBoard()
         {
-            this.field = new string[6, 7];
+            this.field = new string[numRows, numColumns];
             this.FillField();
             Console.WriteLine("Board reset.");
         }
         //Checks if the board is full
-        public bool CheckBoard()
+        public bool BoardHasSpace()
         {
             bool hasSpace = false;
-            for(int i = 0; i<7; i++)
+            for(int i = 0; i< numColumns; i++)
             {
                 if (this.field[0,i] == "   ")
                 {
@@ -40,9 +43,9 @@ namespace Connect4
         //Prints the Board to the console
         public void PrintBoard()
         {
-            for(int i = 0; i < 6; i++)
+            for(int i = 0; i < numRows; i++)
             {
-                for(int k = 0; k < 7; k++)
+                for(int k = 0; k < numColumns; k++)
                 {
                     Console.Write(this.field[i, k]);
                 }
@@ -53,9 +56,9 @@ namespace Connect4
         //Fills the Board with spaces, I chose spaces just so it looks prettier
         public void FillField()
         {
-            for(int i = 0; i < 6; i++)
+            for(int i = 0; i < numRows; i++)
             {
-                for(int k = 0; k < 7; k++)
+                for(int k = 0; k < numColumns; k++)
                 {
                     this.field[i, k] = "   ";
                 }
