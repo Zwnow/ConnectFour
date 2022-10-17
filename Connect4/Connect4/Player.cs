@@ -16,9 +16,10 @@ namespace Connect4
             this.name = name;
             won = false;
         }
+        public string Name { get => name; set => name = value; }
+        public bool Won { get => won; set => won = value; }
 
-        public string Name { get; set; }
-        public bool Won { get; set; }
+
 
         //TakeTurn goes through to turn process of a player
         public void TakeTurn(Board board)

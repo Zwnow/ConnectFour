@@ -13,3 +13,18 @@ C:\Users\S.O.Timm\Desktop\Test\Connect4\Connect4\obj\Debug\net6.0\refint\Connect
 C:\Users\S.O.Timm\Desktop\Test\Connect4\Connect4\obj\Debug\net6.0\Connect4.pdb
 C:\Users\S.O.Timm\Desktop\Test\Connect4\Connect4\obj\Debug\net6.0\Connect4.genruntimeconfig.cache
 C:\Users\S.O.Timm\Desktop\Test\Connect4\Connect4\obj\Debug\net6.0\ref\Connect4.dll
+C:\Users\sveno\OneDrive\Desktop\Arbeit\Schule Block 2\LF5\Anwendungen\block-2\Tasks\ConnectFour\Connect4\Connect4\bin\Debug\net6.0\Connect4.exe
+C:\Users\sveno\OneDrive\Desktop\Arbeit\Schule Block 2\LF5\Anwendungen\block-2\Tasks\ConnectFour\Connect4\Connect4\bin\Debug\net6.0\Connect4.deps.json
+C:\Users\sveno\OneDrive\Desktop\Arbeit\Schule Block 2\LF5\Anwendungen\block-2\Tasks\ConnectFour\Connect4\Connect4\bin\Debug\net6.0\Connect4.runtimeconfig.json
+C:\Users\sveno\OneDrive\Desktop\Arbeit\Schule Block 2\LF5\Anwendungen\block-2\Tasks\ConnectFour\Connect4\Connect4\bin\Debug\net6.0\Connect4.dll
+C:\Users\sveno\OneDrive\Desktop\Arbeit\Schule Block 2\LF5\Anwendungen\block-2\Tasks\ConnectFour\Connect4\Connect4\bin\Debug\net6.0\Connect4.pdb
+C:\Users\sveno\OneDrive\Desktop\Arbeit\Schule Block 2\LF5\Anwendungen\block-2\Tasks\ConnectFour\Connect4\Connect4\obj\Debug\net6.0\Connect4.csproj.AssemblyReference.cache
+C:\Users\sveno\OneDrive\Desktop\Arbeit\Schule Block 2\LF5\Anwendungen\block-2\Tasks\ConnectFour\Connect4\Connect4\obj\Debug\net6.0\Connect4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sveno\OneDrive\Desktop\Arbeit\Schule Block 2\LF5\Anwendungen\block-2\Tasks\ConnectFour\Connect4\Connect4\obj\Debug\net6.0\Connect4.AssemblyInfoInputs.cache
+C:\Users\sveno\OneDrive\Desktop\Arbeit\Schule Block 2\LF5\Anwendungen\block-2\Tasks\ConnectFour\Connect4\Connect4\obj\Debug\net6.0\Connect4.AssemblyInfo.cs
+C:\Users\sveno\OneDrive\Desktop\Arbeit\Schule Block 2\LF5\Anwendungen\block-2\Tasks\ConnectFour\Connect4\Connect4\obj\Debug\net6.0\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\sveno\OneDrive\Desktop\Arbeit\Schule Block 2\LF5\Anwendungen\block-2\Tasks\ConnectFour\Connect4\Connect4\obj\Debug\net6.0\Connect4.dll
+C:\Users\sveno\OneDrive\Desktop\Arbeit\Schule Block 2\LF5\Anwendungen\block-2\Tasks\ConnectFour\Connect4\Connect4\obj\Debug\net6.0\refint\Connect4.dll
+C:\Users\sveno\OneDrive\Desktop\Arbeit\Schule Block 2\LF5\Anwendungen\block-2\Tasks\ConnectFour\Connect4\Connect4\obj\Debug\net6.0\Connect4.pdb
+C:\Users\sveno\OneDrive\Desktop\Arbeit\Schule Block 2\LF5\Anwendungen\block-2\Tasks\ConnectFour\Connect4\Connect4\obj\Debug\net6.0\Connect4.genruntimeconfig.cache
+C:\Users\sveno\OneDrive\Desktop\Arbeit\Schule Block 2\LF5\Anwendungen\block-2\Tasks\ConnectFour\Connect4\Connect4\obj\Debug\net6.0\ref\Connect4.dll

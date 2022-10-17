@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sveno\\OneDrive\\Desktop\\Connect4\\Connect4\\Connect4.csproj",
+      "projectUniqueName": "C:\\Users\\sveno\\OneDrive\\Desktop\\Arbeit\\Schule Block 2\\LF5\\Anwendungen\\block-2\\Tasks\\ConnectFour\\Connect4\\Connect4\\Connect4.csproj",
       "projectName": "Connect4",
-      "projectPath": "C:\\Users\\sveno\\OneDrive\\Desktop\\Connect4\\Connect4\\Connect4.csproj",
+      "projectPath": "C:\\Users\\sveno\\OneDrive\\Desktop\\Arbeit\\Schule Block 2\\LF5\\Anwendungen\\block-2\\Tasks\\ConnectFour\\Connect4\\Connect4\\Connect4.csproj",
       "packagesPath": "C:\\Users\\sveno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sveno\\OneDrive\\Desktop\\Connect4\\Connect4\\obj\\",
+      "outputPath": "C:\\Users\\sveno\\OneDrive\\Desktop\\Arbeit\\Schule Block 2\\LF5\\Anwendungen\\block-2\\Tasks\\ConnectFour\\Connect4\\Connect4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sveno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
